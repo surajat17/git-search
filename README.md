@@ -1,6 +1,5 @@
 # github-finder
 
-[VIEW HERE](https://github-finder-xi-woad.vercel.app/)
 
 an application to find GitHub Users using GitHub API
 
